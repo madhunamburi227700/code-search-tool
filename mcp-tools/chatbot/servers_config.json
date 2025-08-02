@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tool": {
+      "command": "python",
+      "args": ["server.py"]
+    }
+  }
+}
